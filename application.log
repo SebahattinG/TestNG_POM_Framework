@@ -1,0 +1,4 @@
+2020-07-23 19:42:42,602  INFO [main] LoginPageTest:59 - url is launched https://app.hubspot.com/login
+2020-07-23 19:42:42,724  INFO [main] LoginPageTest:70 - starting -------------------->>>> verifyLoginPageTest
+2020-07-23 19:42:47,994  INFO [main] LoginPageTest:59 - url is launched https://app.hubspot.com/login
+2020-07-23 19:42:52,591  INFO [main] LoginPageTest:59 - url is launched https://app.hubspot.com/login

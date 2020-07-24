@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 22, Failures: 1, Errors: 0, Skipped: 21, Time elapsed: 5.041 sec <<< FAILURE!
+setUp(com.qa.hubspot.tests.HomePageTest)  Time elapsed: 2.464 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.qa.hubspot.base.OptionsManager.getChromeOptions(OptionsManager.java:20)
+	at com.qa.hubspot.base.BasePage.init_driver(BasePage.java:33)
+	at com.qa.hubspot.tests.HomePageTest.setUp(HomePageTest.java:31)
+
